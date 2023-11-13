@@ -1,7 +1,7 @@
 body{
     background: #dda0dd;
     font-family: 'Roboto', sans-serif;
-    margin: 0;   
+    margin: 0px;   
 }
 
 *{
@@ -34,8 +34,8 @@ button{
 }
 
 button:hover{
-      background:#8567A4;
-      color: #fafafa;
+    background:#8567A4;
+    color: #fafafa;
 }
 
 ol li{
@@ -43,7 +43,7 @@ ol li{
 }
 
 .tachado{
-       background: red;  
+    text-decoration: line-through red; 
 }
 
 
